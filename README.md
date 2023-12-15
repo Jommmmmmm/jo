@@ -54,22 +54,21 @@ by **Group 1 - BSCS 3B**
      
  ![1](https://github.com/Jommmmmmm/jo/blob/main/1.png)
 
-### 3. Install LAMP Stack. LAMP stands for Linux, Apache, MySQL, and PHP. 
- - This stack is typically installed together in order to enable a server to host dynamic websites and web apps written in PHP.
-Here are the tutorials on how to install LAMP stack [[1]](https://ostechnix.com/install-apache-mysql-php-lamp-stack-on-ubuntu-18-04-lts/)[[2]](https://linuxhint.com/install-phpmyadmin-raspberry-pi/)
+### 3. Install LAMP Stack
+ - Install all the necessary requirements
  - To install the stack, type the following commands on our command prompt connected to Raspberry Pia via SSH.
    + **_sudo apt install apache2_**
-     ![4 1](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/0b82373e-fbfe-4572-8fcd-dfe0758f123c)
    + **_sudo apt install mariadb-server_**
-     ![5 1](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/e7b4c2e9-88a2-45f9-a672-dcc3fe3a9b45)
    + **_sudo mysql_secure_installation_**
-     ![6 1](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/468ada53-65e1-4321-abd0-a0b4fd3a479f)
    + **_sudo apt install php libapache2-mod-php php-mysql_**
-     ![7 1](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/fc1b5ee6-b857-46ea-bee6-34b3fc01a40d)
    + **_sudo apt-get install php_**
-     ![8](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/7df70005-43fa-4811-8b08-3ffa124a92c4)
    + sudo apt install phpmyadmin
-     ![9](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/2f41ba4e-7455-48b4-8e6d-bfa89566ab4a)
+     ![2](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/0b82373e-fbfe-4572-8fcd-dfe0758f123c)
+     ![3](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/e7b4c2e9-88a2-45f9-a672-dcc3fe3a9b45)
+     ![4](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/468ada53-65e1-4321-abd0-a0b4fd3a479f)
+     ![5](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/fc1b5ee6-b857-46ea-bee6-34b3fc01a40d)
+     ![6](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/7df70005-43fa-4811-8b08-3ffa124a92c4)
+     
 
 ### 4. Connect to Raspberry Pi via VNC
  - Install RealVNC® Viewer to the device you want to control from via this [link](https://www.realvnc.com/en/connect/download/viewer/)
