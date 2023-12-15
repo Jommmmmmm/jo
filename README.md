@@ -9,10 +9,10 @@ by **Group 1 - BSCS 3B**
 
 
 
-### 1. Install Headless Raspbian OS into Raspberry Pi. ###
+### 1. Install Raspbian OS into Raspberry Pi. ###
 
- - Raspberry Pi Imager is the quick and easy way to install Raspberry Pi OS and other operating systems to a microSD card, ready to use with your Raspberry Pi.
- Here is the link for the [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
+ - To install rasberry pi os we need to use rasberry pi imager
+ Here is the link for the rasberry pi imager [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
  ![14](https://github.com/Jommmmmmm/jo/blob/main/14.png)
 
  - Open Raspberry Pi Imager. Choose Raspberrry Pi Device, Operating System, and Storage.
@@ -35,7 +35,7 @@ by **Group 1 - BSCS 3B**
  - A warning message will appear that all existing data on our SD card will be erased. Click **Yes** to continue
   ![21](https://github.com/Jommmmmmm/jo/blob/main/21.png)
 
- - OS writing on our SD card will then start
+ - Then it wil start the OS writing on our SD card 
 
 ![22](https://github.com/Jommmmmmm/jo/blob/main/22.png)
 
