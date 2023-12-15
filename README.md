@@ -71,7 +71,7 @@ by **Group 1 - BSCS 3B**
      
 
 ### 4. Connect to Raspberry Pi via VNC
- - Install RealVNC® Viewer to the device you want to control from via this [link](https://www.realvnc.com/en/connect/download/viewer/)
+ - Install RealVNC® Viewer by clicking this link [link](https://www.realvnc.com/en/connect/download/viewer/)
  - Before opening VNC on our PC, access first the Raspberry Pi Configuration Tool to enable VNC on the OS via the **_sudo raspi-config_** command.
  - Using the arrows, navigate to **'Interfacing Options'** > **'VNC'**, then choose **'Yes'** and select **'OK'** 
     ![10](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/85362fe9-0d18-4b24-9aec-d6f09b7ebd34)
