@@ -62,7 +62,7 @@ by **Group 1 - BSCS 3B**
    + **_sudo mysql_secure_installation_**
    + **_sudo apt install php libapache2-mod-php php-mysql_**
    + **_sudo apt-get install php_**
-   + sudo apt install phpmyadmin
+   + **_sudo apt install phpmyadmin_**
      ![2](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/0b82373e-fbfe-4572-8fcd-dfe0758f123c)
      ![3](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/e7b4c2e9-88a2-45f9-a672-dcc3fe3a9b45)
      ![4](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/468ada53-65e1-4321-abd0-a0b4fd3a479f)
