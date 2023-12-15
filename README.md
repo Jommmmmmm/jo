@@ -1,5 +1,5 @@
 # INFORMATION ASSURANCE - FINAL PROJECT
-by **Group 1 - BSCS 3B**
+by **Group 10 - BSCS 3B**
 - Jomar Damot
 - Kenn Louise Comprado
 - Aina Mae Dela Justa
