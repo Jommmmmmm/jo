@@ -33,7 +33,7 @@ by **Group 1 - BSCS 3B**
    ![Screenshot 2023-12-07 140959](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/b1f04a91-fa82-44d9-ae70-e237221f1837)
 
  > [!WARNING]
- - A warning message will appear that all existing data on our SD card will be erased if we continue on our installation. Click **Yes** to continue
+ - A warning message will appear that all existing data on our SD card will be erased. Click **Yes** to continue
   ![Screenshot 2023-12-07 135833](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/5378f87f-03f9-45ab-a6c3-e25cba283b61)
 
  - OS writing on our SD card will then start
