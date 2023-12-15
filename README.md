@@ -5,13 +5,13 @@ by **Group 10 - BSCS 3B**
 - Aina Mae Dela Justa
 - Jushua Jay Delos Santos
 
-## STEP-BY-STEP DOCUMENTATION ON RASBERRY PI OS
+## STEP-BY-STEP DOCUMENTATION ON RASPBERRY PI OS
 
 
 
 ### 1. Install Raspbian OS into Raspberry Pi. ###
 
- - To install rasberry pi os we need to use rasberry pi imager
+ - To install rasberry pi os we need to use rasPberry pi imager
  Here is the link for the rasberry pi imager [Raspberry Pi Imager](https://www.raspberrypi.com/software/)
  ![14](https://github.com/Jommmmmmm/jo/blob/main/14.png)
 
@@ -28,7 +28,7 @@ by **Group 10 - BSCS 3B**
  - In the OS Customization, we set the host, username, and password as **iloveyou**. We configure our wireless LAN available which is **CSPC BayanihanNet** and set the wireless LAN   country to **PH.** After it I enable SSH and use password authentication, then click **Save**.
  ![19](https://github.com/Jommmmmmm/jo/blob/main/19.png)
 
- - Click **Yes** to apply our customized settings.
+ - Click **Yes** to apply settings.
    ![20](https://github.com/Jommmmmmm/jo/blob/main/20.png)
 
  > [!WARNING]
