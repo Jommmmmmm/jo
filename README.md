@@ -64,7 +64,7 @@ by **Group 1 - BSCS 3B**
    + **_sudo apt-get install php_**
    + **_sudo apt install phpmyadmin_**
      ![2](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/0b82373e-fbfe-4572-8fcd-dfe0758f123c)
-     ![3](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/e7b4c2e9-88a2-45f9-a672-dcc3fe3a9b45)
+     ![3](https://github.com/Jommmmmmm/jo/blob/main/3.png)
      ![4](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/468ada53-65e1-4321-abd0-a0b4fd3a479f)
      ![5](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/fc1b5ee6-b857-46ea-bee6-34b3fc01a40d)
      ![6](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/7df70005-43fa-4811-8b08-3ffa124a92c4)
