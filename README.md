@@ -44,7 +44,7 @@ by **Group 1 - BSCS 3B**
 
  - In this case when you see that it is verifying you can just cancel this and proceed to the next step
   
-![Screenshot 2023-12-07 140853](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/9e465d13-36c9-4316-ba62-5fdd8aafb04c
+![Screenshot 2023-12-07 140853](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/9e465d13-36c9-4316-ba62-5fdd8aafb04c)
 
 ### 2. Connect to Raspberry Pi via SSH using command prompt###
  - In the command prompt, type SSH to access the network protocol. Then type the following command:
