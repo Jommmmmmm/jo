@@ -5,7 +5,7 @@ by **Group 10 - BSCS 3B**
 - Aina Mae Dela Justa
 - Jushua Jay Delos Santos
 
-## STEP-BY-STEP DOCUMENTATION 
+## STEP-BY-STEP DOCUMENTATION ON RASBERRY PI OS
 
 
 
