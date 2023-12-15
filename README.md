@@ -78,5 +78,5 @@ by **Group 1 - BSCS 3B**
     ![9](https://github.com/Jommmmmmm/jo/blob/main/9.png)
     ![10](https://github.com/Jommmmmmm/jo/blob/main/10.png)
     ![11](https://github.com/Jommmmmmm/jo/blob/main/11.png)
-- On the device you will use to take control, run RealVNC Viewer and enter the private IP address in the search bar. If the screen of the Raspberry Pi appeared on RealVNC, it means that it already established connection and control on the Raspberry Pi. 
+- Run RealVNC Viewer and enter the IP address in the search bar. If the screen of the Raspberry Pi appeared on RealVNC, it means that it already established connection and control on the Raspberry Pi. 
    ![13](https://github.com/Jommmmmmm/jo/blob/main/13.png)
