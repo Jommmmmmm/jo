@@ -51,10 +51,8 @@ by **Group 1 - BSCS 3B**
    - ssh username@hostname
    - sudo apt update
    - sudo apt upgrade
-
- ![2(1)](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/a105c0e9-650b-4103-b8b2-03f07588c171)
- 
- ![3](https://github.com/kentzyyo/INFO-ASSURANCE/assets/61936205/2bd078ad-1d70-44a7-9209-68f742ac4425)
+     
+ ![1](https://github.com/Jommmmmmm/jo/blob/main/1.png)
 
 ### 3. Install LAMP Stack. LAMP stands for Linux, Apache, MySQL, and PHP. 
  - This stack is typically installed together in order to enable a server to host dynamic websites and web apps written in PHP.
